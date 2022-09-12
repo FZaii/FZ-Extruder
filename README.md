@@ -1,2 +1,2 @@
 # FZ Extruder
-This is bowden type extruder. Improved and redesigned Sherpa-based FZ extruder
+This is BMG type extruder, Improved and redesigned Sherpa-based.
