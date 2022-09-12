@@ -1,2 +1,2 @@
 # FZ Extruder
-Improved and redesigned BMG-based FZ extruder
+Improved and redesigned Sherpa-based FZ extruder
