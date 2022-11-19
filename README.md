@@ -16,7 +16,7 @@
 > - [x] 10齿36步进电机
 
 
-**>**[![releases](https://img.shields.io/github/v/release/FZaii/FZ-Extruder)](https://github.com/FZaii/FZ-Extruder/releases)
+**>**[![releases](https://img.shields.io/github/v/release/FZaii/FZ-Extruder)](https://github.com/FZaii/FZ-Extruder/releases)**<**
 ## 更新历史
 
 > **[Ver 1.2]** 2022.11.20  
