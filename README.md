@@ -26,7 +26,7 @@
 ## 备注
 - 挤出轮臂根据[**`Sherpa mini`**](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder) 修改而来
 
-- 两种固定方向
+- **向下/向后** 两种固定方向
  
 ## 其他
 ![BOM]([物料清单]_BOM_ver1.2.png)
