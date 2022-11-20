@@ -29,5 +29,5 @@
 - **向下/向后** 两种固定方向
  
 ## 其他
-![BOM]([物料清单]_BOM_ver1.2.png)
+![BOM]([物料清单]-BOM_ver1.2.png)
 ![Gears](Images-效果图/FZ-Extruder_Gears.png)
